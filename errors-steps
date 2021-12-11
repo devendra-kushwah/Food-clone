@@ -1,0 +1,8 @@
+Sign up error handling
+
+
+1 . success message on user sign up
+2 . check user already exists by (email / mobile) whatever
+3 . input fields validation
+4 . disabled button until all fields are filled
+5 . loading on submit button   

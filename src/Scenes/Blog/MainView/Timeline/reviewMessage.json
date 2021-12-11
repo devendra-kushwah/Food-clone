@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Devendra",
+    "image": "",
+    "comment": "Cras sit amet nibh libero, in gravida nulla. Cras sit amet nibh libero, in gravida nulla Cras sit amet nibh libero, in gravida nulla",
+    "time": "1 day ago"
+  },
+  {
+    "id": 2,
+    "name": "Lorem ipsum",
+    "image": "/teacher.png",
+    "comment": "Cras sit amet nibh libero, in gravida nulla. Cras sit amet nibh libero, in gravida nulla Cras sit amet nibh libero, in gravida nulla",
+    "time": "1 day ago"
+  }
+]

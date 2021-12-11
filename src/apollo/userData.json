@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "IIT kanpur",
+    "logo": "/blog/1.jpg",
+    "media": "https://res.cloudinary.com/eagleindia/image/upload/v1597479226/today-class.jpg",
+    "description": " Cras sit amet nibh libero, in gravida nulla.",
+    "students": "30K",
+    "joinUs": "join us",
+    "time": "4 hours ago",
+    "role": "",
+    "subject": ["Math", "english", "chemistry"],
+    "address": {
+      "city": "kanpur",
+      "state" : "up",
+      "pincode": "201301",
+      "country": "India"
+    }
+  },
+  {
+    "id": 2,
+    "name": "CSJM kanpur university",
+    "logo": "",
+    "media": "https://res.cloudinary.com/eagleindia/image/upload/v1597479226/sample.jpg",
+    "description": " Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at,",
+    "students": "50K",
+    "joinUs": "join us",
+    "time": "4 mins ago",
+    "role": "",
+    "subject": ["Math", "english", "chemistry"],
+    "address": {
+      "city": "kanpur",
+      "state" : "up",
+      "pincode": "201301",
+      "country": "India"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Harvard university london",
+    "logo": "/blog/1.jpg",
+    "media": "https://res.cloudinary.com/eagleindia/image/upload/v1597479226/harvard-university.jpg",
+    "description": " Cras sit amet nibh libero, in gravida nulla.",
+    "students": "60K",
+    "joinUs": "join us",
+    "time": "4 days ago",
+    "role": "",
+    "subject": ["Math", "english", "chemistry"],
+    "address": {
+      "city": "London",
+      "state" : "up",
+      "pincode": "201301",
+      "country": "UK"
+    }
+  }
+]
