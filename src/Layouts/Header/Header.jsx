@@ -25,7 +25,7 @@ const Header = (props) => {
           <div className="brand d-flex align-items-center">
             <NavLink className="navbar-brand" to="/">
               {/* <img src={`/eagles1.png`} alt="theagles" /> */}
-              Panipurijunction
+              Lorem Logo
             </NavLink>
           </div>
           {/* <SearchBar data="data" /> */}

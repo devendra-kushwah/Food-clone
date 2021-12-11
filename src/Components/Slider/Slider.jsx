@@ -9,7 +9,7 @@ const Slider = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="images/taste1.jpg"
+            src="images/banner-dummy.jpg"
             // src="https://www.digivigyan.com/knowledge-center/wp-content/uploads/2019/07/banner-dummy.jpg"
             alt="First slide"
           />
@@ -21,7 +21,7 @@ const Slider = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="images/taste2.jpg"
+            src="images/banner-dummy.jpg"
             // src="https://www.digivigyan.com/knowledge-center/wp-content/uploads/2019/07/banner-dummy.jpg"
             alt="Second slide"
           />
@@ -34,7 +34,7 @@ const Slider = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="images/taste3.jpg"
+            src="images/banner-dummy.jpg"
             // src="https://www.digivigyan.com/knowledge-center/wp-content/uploads/2019/07/banner-dummy.jpg"
             alt="Third slide"
           />
