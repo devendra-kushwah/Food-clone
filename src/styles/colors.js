@@ -4,9 +4,9 @@ const themeColor3 = "#ebedef";
 
 const colors = {
   // Primary  Theme colors
-  themeColor1: themeColor1, // Yellow
-  themeColor2: themeColor2, // light blue
-  themeColor3: themeColor3, // light grey
+  themeColor1, // Yellow
+  themeColor2, // light blue
+  themeColor3, // light grey
 
   // Common colors
   black: "#000",
