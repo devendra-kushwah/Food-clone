@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
-import Header from "../../Layouts/Header";
-import Footer from "../../Layouts/Footer";
+import {Footer, Header} from "../../Layouts";
+
 import {
   ErrorBoundary,
   Slider,
   CarouselSlider,
   ContactUs,
 } from "../../Components";
+
 import ProductCard from "./ProductCard";
 import BannerMessage from "./BannerMessage/BannerMessage";
 
