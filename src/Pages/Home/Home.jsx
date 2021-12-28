@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import {Footer, Header} from "../../Layouts";
+import {BaseLayout} from "../../Layouts";
+
 
 import {
   ErrorBoundary,
@@ -52,15 +53,14 @@ const Home = () => {
   }, []);
 
   return (
-    <>
-      <Header qtyCount={totalItem} />
+    <BaseLayout>
+      {/* <Header qtyCount={totalItem} /> */}
       <Slider />
       <BannerMessage />
       <ProductCard {...productProps} />
       <CarouselSlider />
       <ContactUs />
-      <Footer />
-    </>
+      </BaseLayout>
   );
 };
 export default ErrorBoundary(Home);

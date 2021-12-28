@@ -10,7 +10,7 @@ import {
   NewPassword,
   NotFound,
   Product,
-} from "../Scenes";
+} from "../Pages";
 
 const Routes = () => {
   return (
