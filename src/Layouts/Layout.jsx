@@ -3,16 +3,16 @@ import Footer from "./Footer";
 import Header from "./Header";
 import { Main } from "./style";
 
-function BaseLayout(props) {
+function Layout(props) {
   const { children } = props;
   return (
     <>
       <Header />
-      {/* chilren is props that is provided by react which we will pass in middle of BaseLayout where we call It*/}
+      {/* chilren is props that is provided by react which we will pass in middle of Layout where we call It*/}
       <Main>{children}</Main>
       <Footer />
     </>
   );
 }
 
-export default BaseLayout;
+export default Layout;

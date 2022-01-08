@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import {BaseLayout} from "Layouts";
+import {Layout} from "Layouts";
 
 
 import {
@@ -53,14 +53,14 @@ const Home = () => {
   }, []);
 
   return (
-    <BaseLayout>
+    <Layout>
       {/* <Header qtyCount={totalItem} /> */}
       <Slider />
       <BannerMessage />
       <ProductCard {...productProps} />
       <CarouselSlider />
       {/* <ContactUs /> */}
-      </BaseLayout>
+      </Layout>
   );
 };
 export default ErrorBoundary(Home);
