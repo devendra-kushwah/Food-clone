@@ -28,7 +28,8 @@ const Header = (props) => {
               Lorem Logo
             </NavLink>
           </div>
-          {/* <SearchBar data="data" /> */}
+          <SearchBar data="data" />
+          
           {/* <span className="cart position-relative">
             <ShoppingCart size="30" />{" "}
             <span className="total-qty position-absolute">{qtyCount}</span>
