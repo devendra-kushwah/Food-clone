@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import {Layout} from "Layouts";
 
-
 import {
   ErrorBoundary,
   Slider,
@@ -9,10 +8,9 @@ import {
   // ContactUs,
 } from "lib/Components";
 
-import ProductCard from "./ProductCard";
-import BannerMessage from "./BannerMessage/BannerMessage";
+import {ProductCard, BannerMessage} from "./components";
 
-import data from "./ProductCard/data.json";
+import data from "./components/ProductCard/data.json";
 
 const Home = () => {
   const [items, setItems] = useState(data);
