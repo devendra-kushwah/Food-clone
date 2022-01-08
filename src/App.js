@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import Routes from "./Routes/Routes";
 import userData from "./apollo/userData";
-
-import Context from "./Components/Context";
+import Context from "lib/Context";
 
 // import { Maintenance } from "./Components";
 

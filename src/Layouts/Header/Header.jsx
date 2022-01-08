@@ -5,7 +5,7 @@ import SearchBar from "./SearchBar";
 import { Menu } from "@styled-icons/ionicons-outline/Menu";
 import { Container, Badge } from "react-bootstrap";
 import Navigation from "./Navigation";
-import ErrorBoundary from "../../Components/ErrorBoundary";
+import ErrorBoundary from "lib/Components/ErrorBoundary";
 import { ShoppingCart } from "@styled-icons/feather/ShoppingCart";
 
 const Header = (props) => {
