@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Handi pani gol gappe",
+        "image" : "images/banner-dummy.jpg",
+        "content": " Poke gastropub organic, blue bottle laborum palo santo bicyclerights scenester chicharrones you probably haven't heard.",
+        "button": "Book now",
+        "url": "/",
+        "qty": "",
+        "price": "100",
+        "peace": "5",
+        "isSelected": false
+    },
+    {
+        "id": "2",
+        "title": "Bharwa gol gappe",
+        "image" : "images/banner-dummy.jpg",
+        "content": " Poke gastropub organic, blue bottle laborum palo santo bicyclerights scenester chicharrones you probably haven't heard.",
+        "button": "Book now",
+        "url": "/",
+        "qty": "0",
+        "price": "100",
+        "peace": "4",
+        "isSelected": false
+    },
+    {
+        "id": "3",
+        "title": "Suji gol gappe",
+        "image" : "images/banner-dummy.jpg",
+        "content": " Poke gastropub organic, blue bottle laborum palo santo bicyclerights scenester chicharrones you probably haven't heard.",
+        "button": "Book now",
+        "url": "/",
+        "qty": "0",
+        "price": "100",
+        "peace": "4",
+        "isSelected": false
+    }
+]
