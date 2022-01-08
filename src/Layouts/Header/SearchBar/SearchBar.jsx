@@ -2,7 +2,7 @@ import React, { useState, useContext, useEffect } from "react";
 // import axios from "axios";
 import { Input } from "../../../styles/inputs";
 import { SearchForm } from "../style";
-import Context from "../../../Components/Context";
+import Context from "lib/Context";
 
 const SearchBar = () => {
   const { data, setData } = useContext(Context);

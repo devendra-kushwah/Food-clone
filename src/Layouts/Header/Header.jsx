@@ -5,7 +5,7 @@ import SearchBar from "./SearchBar";
 import { Menu } from "@styled-icons/ionicons-outline/Menu";
 import { Container, Badge } from "react-bootstrap";
 import Navigation from "./Navigation";
-import ErrorBoundary from "../../Components/ErrorBoundary";
+import ErrorBoundary from "lib/Components/ErrorBoundary";
 import { ShoppingCart } from "@styled-icons/feather/ShoppingCart";
 
 const Header = (props) => {
@@ -28,7 +28,8 @@ const Header = (props) => {
               Lorem Logo
             </NavLink>
           </div>
-          {/* <SearchBar data="data" /> */}
+          <SearchBar data="data" />
+          
           {/* <span className="cart position-relative">
             <ShoppingCart size="30" />{" "}
             <span className="total-qty position-absolute">{qtyCount}</span>
